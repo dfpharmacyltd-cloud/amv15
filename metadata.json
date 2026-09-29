@@ -1,0 +1,6 @@
+{
+  "name": "Analytical Method Validation (AMV) Suite",
+  "description": "Automated pharmaceutical Analytical Method Validation (AMV) Protocol and Report generator with HPLC conditions, ICH Q2(R2) compliance, and Microsoft Word (.docx) export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
